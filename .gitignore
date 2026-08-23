@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+data/raw/
+data/*.csv
+!data/.gitkeep
+
+.idea/
+.vscode/
+
+.ipynb_checkpoints/
